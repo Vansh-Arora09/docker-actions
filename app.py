@@ -1,0 +1,1 @@
+print('Hello from Docker! This is my first automated build.')
